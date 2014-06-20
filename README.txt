@@ -1,7 +1,6 @@
 How to run pony_script.py:
 This python script was written for python 2.7.
-This script must be placed in directory with malware samples from
-https://mail.shadowserver.org/mailman/listinfo/pony. This script
+This script must be placed in directory with malware samples. This script
 recursively traverses all sub-directories and examines all .json files.
 Thus the format of sub-directory folders is fine as long as this script
 is located at the same directory as where the samples are located.
